@@ -1,0 +1,4 @@
+Book{id=0, name='the alchemist', isAvailable=true, count=3, author='Paulo Coelho', genre=FICTION
+Book{id=1, name='sapiens', isAvailable=true, count=5, author=' Yuval Noah', genre=NON_FICTION
+Book{id=2, name='harry potter', isAvailable=true, count=4, author='J.K.Rowling', genre=FANTASY
+Book{id=3, name='the great gatsby', isAvailable=true, count=4, author='F.Scoot', genre=CLASSIC
